@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **scdatahub/scdatahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 -->
 - 🔭 Our research team is currently working on investigationg supply chain risk.
